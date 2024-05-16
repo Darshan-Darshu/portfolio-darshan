@@ -19,6 +19,7 @@ function Skill({ directionLeft }: Props) {
         transition={{
           duration: 1,
         }}
+        viewport={{ once: true }}
         src='/assests/Darshan.jpg'
         className='rounded-full border border-gray-500 w-24 h-24 object-cover xl:w-32 xl:h-32 filter group-hover:grayscale transition duration-300 ease-in-out'
       />

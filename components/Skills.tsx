@@ -27,7 +27,10 @@ function Skills() {
 
       <div className='grid grid-cols-4 gap-5'>
         {new Array(14).fill("").map((_, index) => (
-          <Skill key={index} />
+          <Skill
+            key={index}
+            directionLeft={index > 7 ? false : true}
+          />
         ))}
       </div>
     </motion.div>
