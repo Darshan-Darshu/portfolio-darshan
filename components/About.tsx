@@ -47,11 +47,30 @@ function About() {
           background
         </h4>
         <p className='text-base'>
-          Lorem, ipsum dolor sit amet consectetur
-          adipisicing elit. Accusantium voluptatum commodi
-          quasi? Repellat, modi nihil? Earum harum sed quis
-          nam assumenda architecto dolores aut asperiores
-          iusto ea? Vero, quidem rem.
+          I'm Darshan. I'm been coding for over 7 years now,
+          Started my journey as a JavaScript full-stack
+          developer by participating in hackathons, What
+          began as a passion project gradually evolved into
+          a daily commitment as I integrated coding into my
+          routine. Embraced the latest trends in web
+          development, incorporating Next.js for server-side
+          rendering and Tailwind CSS for efficient styling,
+          adopting a modern and streamlined approach to
+          coding. Leveraged my expertise as a freelancer and
+          in IT industries, accumulating 1.8 years of
+          hands-on experience in delivering tailored
+          solutions for organizations. Developed a
+          reputation for being a solution-oriented thinker,
+          driven by passion and motivation to build
+          end-to-end applications that are not only
+          functional but also optimized for performance and
+          scalability, Approach each project with optimism
+          and enthusiasm, believing in the transformative
+          power of technology to bring about positive
+          change, and striving to create impactful solutions
+          that exceed expectations, honing my skills in MERN
+          stack development through consistent practice and
+          experimentation
         </p>
       </div>
     </motion.div>
