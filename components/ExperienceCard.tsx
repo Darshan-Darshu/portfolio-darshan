@@ -73,7 +73,7 @@ function ExperienceCard() {
         <p className='uppercase py-3 text-gray-300'>
           02/10/2022 - till now
         </p>
-        <ul className='list-disc space-y-2 ml-5 text-[15px]'>
+        <ul className='list-disc space-y-2 ml-5 text-[12px] md:text-[15px]'>
           <li>
             Developed a Seating Booking Application for
             Zensar, demonstrating proficiency in full-stack
@@ -104,7 +104,7 @@ function ExperienceCard() {
               src='/assests/award.png'
               className='w-16 h-12 '
             />
-            <div className='text-[12px] font-semibold'>
+            <div className='text-[10px] md:text-[12px] font-semibold'>
               <p>
                 Recognized as the top performer in the MERN
                 Stack training batch
