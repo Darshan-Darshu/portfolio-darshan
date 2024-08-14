@@ -238,7 +238,7 @@ export const projectData: ProjectData[] = [
   },
   {
     id: 6,
-    imageUrl: "amazon.png",
+    imageUrl: "msa.png",
     title: "MSA App Performance Optimization",
     description:
       "Developed a demo for an MSA (Merchandising Service Application) in macys, focused on improving the order processing time. The improvements led to a significant reduction in order time, cutting it from over 3 minutes to just 1 minute, enhancing user experience and operational efficiency.",
