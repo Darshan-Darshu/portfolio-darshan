@@ -47,7 +47,7 @@ function Projects() {
               className="h-[400px] object-contain"
             />
 
-            <div className="space-y-10 px-0 md:px-10 max-w-6xl">
+            <div className="space-y-6 md:space-y-10 px-0 md:px-10 max-w-6xl">
               <h4 className=" text-xl md:text-2xl lg:text-4xl font-semibold text-center">
                 <span className="underline decoration-[#F7AB0A]/50">
                   Case Study {i + 1} of {projectData.length}{" "}
@@ -55,7 +55,9 @@ function Projects() {
                 : {title}
               </h4>
 
-              <p className="text-lg text-center md:text-left">{description}</p>
+              <p className="text-sm md:text-lg text-center md:text-left">
+                {description}
+              </p>
             </div>
           </Link>
         ))}
